@@ -9,3 +9,6 @@ Allow: /pagead/*/show_ads_impl.js
 Allow: /static/glade.js
 Allow: /static/glade/
 Allow: /tag/js/
+
+User-agent: Mediapartners-Google
+Allow: /
